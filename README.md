@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
   <br>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forfuture)](https://solved.ac/forfuture/)
 </div>
 
 <!--
